@@ -1,6 +1,6 @@
 package clase;
 
-public class AutobuzBuilder implements Builder{
+public class AutobuzBuilder implements Builder {
 
     private Autobuz autobuz;
 
@@ -42,4 +42,5 @@ public class AutobuzBuilder implements Builder{
         this.autobuz.setTextRulat(textRulat);
         return this;
     }
+
 }

@@ -52,4 +52,5 @@ public class Autobuz {
     void setTextRulat(String textRulat) {
         this.textRulat = textRulat;
     }
+
 }
