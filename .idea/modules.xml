@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterClase/AdapterClase.iml" filepath="$PROJECT_DIR$/AdapterClase/AdapterClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS1090.iml" filepath="$PROJECT_DIR$/.idea/CTS1090.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem1/Sem1.iml" filepath="$PROJECT_DIR$/Sem1/Sem1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem2/Sem2.iml" filepath="$PROJECT_DIR$/Sem2/Sem2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem3/Sem3.iml" filepath="$PROJECT_DIR$/Sem3/Sem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sem5/Sem5.iml" filepath="$PROJECT_DIR$/Sem5/Sem5.iml" />
     </modules>
   </component>
 </project>
