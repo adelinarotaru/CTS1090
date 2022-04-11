@@ -10,12 +10,15 @@
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem1/Sem1.iml" filepath="$PROJECT_DIR$/Sem1/Sem1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem2/Sem2.iml" filepath="$PROJECT_DIR$/Sem2/Sem2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem3/Sem3.iml" filepath="$PROJECT_DIR$/Sem3/Sem3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem5/Sem5.iml" filepath="$PROJECT_DIR$/Sem5/Sem5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem6/Sem6.iml" filepath="$PROJECT_DIR$/Sem6/Sem6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar_Flyweight/Seminar_Flyweight.iml" filepath="$PROJECT_DIR$/Seminar_Flyweight/Seminar_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>
